@@ -36,7 +36,7 @@ Identity: Active Directory, Entra ID, MFA
 
 IT Support: Imaging, hardware repair, network troubleshooting, ticketing systems
 
-Tools: Python, Bash, Git, Microsoft 365
+Tools: Python, Bash, Git, Microsoft 365x
 
 <!--
 **cenwinye/cenwinye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
